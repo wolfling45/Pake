@@ -77,6 +77,12 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
+    },
+    {
+      "name": "siyuan",
+      "title": "SiYuan",
+      "name_zh": "思源",
+      "url": "https://sy.918816.xyz/"
     }
   ]
 }
